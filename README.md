@@ -1,6 +1,6 @@
 # Banco-Digital
 
-** Este é o desafio do módulo II da CUBOS**
+**Este é o desafio do módulo II da CUBOS**
 
 A tarefa como desenvolvedor é criar uma API para um Banco Digital. Esse será um projeto **piloto**, ou seja, no futuro outras funcionalidades serão implementadas, portanto, dados do banco (nome, agência, etc.) serão imutáveis.
 
@@ -581,8 +581,8 @@ Esse endpoint deverá listar as transações realizadas de uma conta específica
 -   [Rotas, Intermediários e Controladores]
 -   [Aula API REST]
 -   [Formatando datas com date-fns]
--   [Aula de objetos]
--   [Aula de funções]
+-   [Objetos]
+-   [Funções]
 
 **LEMBRE-SE**: Feito é melhor do que perfeito, mas não faça mal feito!!!
 
